@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Digital Justice Center",
+    "description": "Independent dispute resolution for digital platforms under Art. 21 DSA"
+  },
+  "nav": {
+    "about": "About",
+    "switchLang": "DE"
+  },
+  "hero": {
+    "badge": "Coming soon",
+    "title": "Independent dispute resolution for digital platforms",
+    "subtitle": "The Digital Justice Center will be a certified out-of-court dispute resolution body under Article 21 of the Digital Services Act (DSA). We stand up for your digital rights — independent, fair, and free of charge."
+  },
+  "about": {
+    "sectionTitle": "About the Digital Justice Center",
+    "p1": "The Digital Justice Center is currently undergoing certification with the Bundesnetzagentur as the Digital Services Coordinator for Germany.",
+    "p2": "As an out-of-court dispute resolution body under Art. 21 DSA, we handle complaints against content moderation decisions by online platforms — including content removal, account suspensions, and monetization restrictions.",
+    "p3": "We are based in Berlin and operate independently, impartially, and on the basis of European law.",
+    "legal": "Legal basis: Art. 21 Regulation (EU) 2022/2065 (Digital Services Act)"
+  },
+  "footer": {
+    "address": "c/o Das Dach, Köpenicker Str. 145, 10997 Berlin",
+    "imprint": "Legal Notice",
+    "privacy": "Privacy Policy",
+    "tagline": "Digital rights deserve real solutions."
+  },
+  "imprint": {
+    "title": "Legal Notice",
+    "company": "Digital Justice Center UG (haftungsbeschränkt, i.G.)",
+    "address": "c/o Das Dach\nKöpenicker Str. 145\n10997 Berlin",
+    "email": "info@digitaljustice.center",
+    "managementLabel": "Management",
+    "management": "Florian Glatz",
+    "contentLabel": "Responsible for content pursuant to § 18 (2) MStV",
+    "content": "Florian Glatz",
+    "registerLabel": "Court registration",
+    "register": "The company is in the process of being established. Registration in the commercial register has been applied for."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "introTitle": "1. Privacy at a glance",
+    "introText": "This website is a purely informational page without forms, user accounts, or tracking. The following information explains what data is technically collected when you visit this website.",
+    "responsibleTitle": "2. Responsible body",
+    "responsibleText": "The responsible body for data processing on this website is:",
+    "responsibleCompany": "Digital Justice Center UG (haftungsbeschränkt, i.G.)",
+    "responsibleAddress": "c/o Das Dach\nKöpenicker Str. 145\n10997 Berlin",
+    "responsibleEmail": "Email: info@digitaljustice.center",
+    "dataTitle": "3. What data we collect",
+    "dataText": "We do not actively collect any personal data. There are no forms, no user accounts, no tracking, and no analytics services on this website. We do not use cookies.",
+    "logsTitle": "4. Server log files",
+    "logsText": "When you visit this website, your browser automatically transmits technical information to our hosting provider's server. This data is stored in server log files: IP address, browser type and version, operating system, referrer URL, page visited, time of access. This data is used exclusively for the operation and security of the website and is not merged with other data sources. The legal basis is Art. 6(1)(f) GDPR (legitimate interest in the secure operation of the website).",
+    "fontsTitle": "5. Google Fonts",
+    "fontsText": "This website uses fonts from Google Fonts, which are loaded from Google servers when you visit the page. Your IP address is transmitted to Google in the process. For more information, see Google's privacy policy: https://policies.google.com/privacy",
+    "rightsTitle": "6. Your rights",
+    "rightsText": "Under the GDPR, you have the right to access, rectification, erasure, restriction of processing, data portability, and objection. For questions regarding data protection, you can contact us at any time at info@digitaljustice.center."
+  }
+}

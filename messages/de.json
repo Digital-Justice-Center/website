@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Digital Justice Center",
+    "description": "Unabhängige Streitbeilegung für digitale Plattformen nach Art. 21 DSA"
+  },
+  "nav": {
+    "about": "Über uns",
+    "switchLang": "EN"
+  },
+  "hero": {
+    "badge": "Demnächst verfügbar",
+    "title": "Unabhängige Streitbeilegung für digitale Plattformen",
+    "subtitle": "Das Digital Justice Center wird eine zertifizierte außergerichtliche Streitbeilegungsstelle gemäß Artikel 21 des Digital Services Act (DSA). Wir setzen uns für Ihre digitalen Rechte ein — unabhängig, fair und kostenfrei."
+  },
+  "about": {
+    "sectionTitle": "Über das Digital Justice Center",
+    "p1": "Das Digital Justice Center befindet sich derzeit im Zertifizierungsverfahren bei der Bundesnetzagentur als Digital Services Coordinator für Deutschland.",
+    "p2": "Als außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA behandeln wir Beschwerden gegen Content-Moderation-Entscheidungen von Online-Plattformen — darunter die Entfernung von Inhalten, Kontosperrungen und Einschränkungen der Monetarisierung.",
+    "p3": "Unser Sitz ist in Berlin. Wir arbeiten unabhängig, unparteiisch und auf Grundlage des europäischen Rechts.",
+    "legal": "Rechtsgrundlage: Art. 21 Verordnung (EU) 2022/2065 (Digital Services Act)"
+  },
+  "footer": {
+    "address": "c/o Das Dach, Köpenicker Str. 145, 10997 Berlin",
+    "imprint": "Impressum",
+    "privacy": "Datenschutz",
+    "tagline": "Digitale Rechte verdienen reale Lösungen."
+  },
+  "imprint": {
+    "title": "Impressum",
+    "company": "Digital Justice Center UG (haftungsbeschränkt, i.G.)",
+    "address": "c/o Das Dach\nKöpenicker Str. 145\n10997 Berlin",
+    "email": "info@digitaljustice.center",
+    "managementLabel": "Geschäftsführung",
+    "management": "Florian Glatz",
+    "contentLabel": "Inhaltlich verantwortlich gemäß § 18 Abs. 2 MStV",
+    "content": "Florian Glatz",
+    "registerLabel": "Registergericht",
+    "register": "Die Gesellschaft befindet sich in Gründung. Die Eintragung im Handelsregister wird beantragt."
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "introTitle": "1. Datenschutz auf einen Blick",
+    "introText": "Diese Website ist eine rein informative Seite ohne Formulare, Nutzerkonten oder Tracking. Die folgenden Hinweise erläutern, welche Daten beim Besuch dieser Website technisch bedingt anfallen.",
+    "responsibleTitle": "2. Verantwortliche Stelle",
+    "responsibleText": "Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:",
+    "responsibleCompany": "Digital Justice Center UG (haftungsbeschränkt, i.G.)",
+    "responsibleAddress": "c/o Das Dach\nKöpenicker Str. 145\n10997 Berlin",
+    "responsibleEmail": "E-Mail: info@digitaljustice.center",
+    "dataTitle": "3. Welche Daten wir erheben",
+    "dataText": "Wir erheben keine personenbezogenen Daten aktiv. Es gibt auf dieser Website keine Formulare, keine Nutzerkonten, kein Tracking und keine Analysedienste. Wir verwenden keine Cookies.",
+    "logsTitle": "4. Server-Log-Dateien",
+    "logsText": "Beim Aufruf dieser Website überträgt Ihr Browser automatisch technische Informationen an den Server unseres Hosting-Anbieters. Diese Daten werden in Server-Log-Dateien gespeichert: IP-Adresse, Browsertyp und -version, Betriebssystem, Referrer-URL, aufgerufene Seite, Zeitpunkt des Zugriffs. Diese Daten werden ausschließlich zum Betrieb und zur Sicherheit der Website verwendet und nicht mit anderen Datenquellen zusammengeführt. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse am sicheren Betrieb der Website).",
+    "fontsTitle": "5. Google Fonts",
+    "fontsText": "Diese Website nutzt Schriftarten von Google Fonts, die beim Seitenaufruf von Servern von Google geladen werden. Dabei wird Ihre IP-Adresse an Google übermittelt. Weitere Informationen finden Sie in der Datenschutzerklärung von Google: https://policies.google.com/privacy",
+    "rightsTitle": "6. Ihre Rechte",
+    "rightsText": "Sie haben gemäß DSGVO das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch. Bei Fragen zum Datenschutz können Sie sich jederzeit an info@digitaljustice.center wenden."
+  }
+}
