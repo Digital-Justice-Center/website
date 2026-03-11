@@ -8,15 +8,15 @@
     "switchLang": "EN"
   },
   "hero": {
-    "badge": "Demnächst verfügbar",
+    "badge": "Derzeit im Aufbau",
     "title": "Unabhängige Streitbeilegung für digitale Plattformen",
-    "subtitle": "Das Digital Justice Center wird eine zertifizierte außergerichtliche Streitbeilegungsstelle gemäß Artikel 21 des Digital Services Act (DSA). Wir setzen uns für Ihre digitalen Rechte ein — unabhängig, fair und kostenfrei."
+    "subtitle": "Das Digital Justice Center plant die Einrichtung einer außergerichtlichen Streitbeilegungsstelle gemäß Artikel 21 des Digital Services Act (DSA). Die Zertifizierung wurde bei der Bundesnetzagentur beantragt."
   },
   "about": {
     "sectionTitle": "Über das Digital Justice Center",
-    "p1": "Das Digital Justice Center befindet sich derzeit im Zertifizierungsverfahren bei der Bundesnetzagentur als Digital Services Coordinator für Deutschland.",
-    "p2": "Als außergerichtliche Streitbeilegungsstelle nach Art. 21 DSA behandeln wir Beschwerden gegen Content-Moderation-Entscheidungen von Online-Plattformen — darunter die Entfernung von Inhalten, Kontosperrungen und Einschränkungen der Monetarisierung.",
-    "p3": "Unser Sitz ist in Berlin. Wir arbeiten unabhängig, unparteiisch und auf Grundlage des europäischen Rechts.",
+    "p1": "Das Digital Justice Center hat die Zertifizierung als außergerichtliche Streitbeilegungsstelle gemäß Art. 21 DSA bei der Bundesnetzagentur beantragt.",
+    "p2": "Ziel ist die Behandlung von Beschwerden gegen Content-Moderation-Entscheidungen von Online-Plattformen — darunter die Entfernung von Inhalten, Kontosperrungen und Einschränkungen der Monetarisierung.",
+    "p3": "Der Sitz der Gesellschaft ist in Berlin.",
     "legal": "Rechtsgrundlage: Art. 21 Verordnung (EU) 2022/2065 (Digital Services Act)"
   },
   "footer": {
@@ -35,7 +35,7 @@
     "contentLabel": "Inhaltlich verantwortlich gemäß § 18 Abs. 2 MStV",
     "content": "Florian Glatz",
     "registerLabel": "Registergericht",
-    "register": "Die Gesellschaft befindet sich in Gründung. Die Eintragung im Handelsregister wird beantragt."
+    "register": "Die Gesellschaft befindet sich in Gründung."
   },
   "privacy": {
     "title": "Datenschutzerklärung",

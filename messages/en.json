@@ -8,15 +8,15 @@
     "switchLang": "DE"
   },
   "hero": {
-    "badge": "Coming soon",
+    "badge": "Currently in development",
     "title": "Independent dispute resolution for digital platforms",
-    "subtitle": "The Digital Justice Center will be a certified out-of-court dispute resolution body under Article 21 of the Digital Services Act (DSA). We stand up for your digital rights — independent, fair, and free of charge."
+    "subtitle": "The Digital Justice Center is planning to establish an out-of-court dispute resolution body under Article 21 of the Digital Services Act (DSA). Certification has been applied for with the Bundesnetzagentur."
   },
   "about": {
     "sectionTitle": "About the Digital Justice Center",
-    "p1": "The Digital Justice Center is currently undergoing certification with the Bundesnetzagentur as the Digital Services Coordinator for Germany.",
-    "p2": "As an out-of-court dispute resolution body under Art. 21 DSA, we handle complaints against content moderation decisions by online platforms — including content removal, account suspensions, and monetization restrictions.",
-    "p3": "We are based in Berlin and operate independently, impartially, and on the basis of European law.",
+    "p1": "The Digital Justice Center has applied for certification as an out-of-court dispute resolution body under Art. 21 DSA with the Bundesnetzagentur.",
+    "p2": "The aim is to handle complaints against content moderation decisions by online platforms — including content removal, account suspensions, and monetization restrictions.",
+    "p3": "The company is based in Berlin.",
     "legal": "Legal basis: Art. 21 Regulation (EU) 2022/2065 (Digital Services Act)"
   },
   "footer": {
@@ -35,7 +35,7 @@
     "contentLabel": "Responsible for content pursuant to § 18 (2) MStV",
     "content": "Florian Glatz",
     "registerLabel": "Court registration",
-    "register": "The company is in the process of being established. Registration in the commercial register has been applied for."
+    "register": "The company is in the process of being established."
   },
   "privacy": {
     "title": "Privacy Policy",
