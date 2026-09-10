@@ -16,7 +16,7 @@ export default function Footer() {
               Digital Justice Center
             </span>
             <p className="text-sm text-navy-500 mb-1">
-              Digital Justice Center UG (haftungsbeschränkt, i.G.)
+              Digital Justice Center GmbH i.G.
             </p>
             <p className="text-sm text-navy-500">
               {t('address')}
