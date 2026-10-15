@@ -27,15 +27,15 @@
   },
   "imprint": {
     "title": "Legal Notice",
-    "company": "Digital Justice Center GmbH i.G.",
+    "company": "Digital Justice Center DJC GmbH",
     "address": "Stresemannstraße 23\n10963 Berlin",
     "email": "info@digitaljustice.center",
     "managementLabel": "Management",
-    "management": "Florian Glatz",
+    "management": "Denise Gelleszun-Koschke, Florian Glatz",
     "contentLabel": "Responsible for content pursuant to § 18 (2) MStV",
     "content": "Florian Glatz",
-    "registerLabel": "Court registration",
-    "register": "The company is in the process of being established."
+    "registerLabel": "Commercial register",
+    "register": "Local Court (Amtsgericht) Charlottenburg, HRB 292685 B"
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -43,7 +43,7 @@
     "introText": "This website is a purely informational page without forms, user accounts, or tracking. The following information explains what data is technically collected when you visit this website.",
     "responsibleTitle": "2. Responsible body",
     "responsibleText": "The responsible body for data processing on this website is:",
-    "responsibleCompany": "Digital Justice Center GmbH i.G.",
+    "responsibleCompany": "Digital Justice Center DJC GmbH",
     "responsibleAddress": "Stresemannstraße 23\n10963 Berlin",
     "responsibleEmail": "Email: info@digitaljustice.center",
     "dataTitle": "3. What data we collect",
