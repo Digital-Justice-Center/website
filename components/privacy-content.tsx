@@ -9,7 +9,6 @@ export default function PrivacyContent() {
     {title: 'introTitle', text: 'introText'},
     {title: 'dataTitle', text: 'dataText'},
     {title: 'logsTitle', text: 'logsText'},
-    {title: 'fontsTitle', text: 'fontsText'},
     {title: 'rightsTitle', text: 'rightsText'},
   ];
 

@@ -50,9 +50,7 @@
     "dataText": "We do not actively collect any personal data. There are no forms, no user accounts, no tracking, and no analytics services on this website. We do not use cookies.",
     "logsTitle": "4. Server log files",
     "logsText": "When you visit this website, your browser automatically transmits technical information to our hosting provider's server. This data is stored in server log files: IP address, browser type and version, operating system, referrer URL, page visited, time of access. This data is used exclusively for the operation and security of the website and is not merged with other data sources. The legal basis is Art. 6(1)(f) GDPR (legitimate interest in the secure operation of the website).",
-    "fontsTitle": "5. Google Fonts",
-    "fontsText": "This website uses fonts from Google Fonts, which are loaded from Google servers when you visit the page. Your IP address is transmitted to Google in the process. For more information, see Google's privacy policy: https://policies.google.com/privacy",
-    "rightsTitle": "6. Your rights",
+    "rightsTitle": "5. Your rights",
     "rightsText": "Under the GDPR, you have the right to access, rectification, erasure, restriction of processing, data portability, and objection. For questions regarding data protection, you can contact us at any time at info@digitaljustice.center."
   }
 }
